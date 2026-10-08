@@ -6,6 +6,10 @@
 // #include <iostream>
 // using namespace std;
 
+/// Uncomment these lines if you happen to add a Vector3 and want to debug :)
+// inline std::ostream& operator<<(std::ostream& os, const Vector3& v) {
+//     return os << '(' << v.x << ", " << v.y << ", " << v.z << ')';
+// }
 
 
 int main()
