@@ -1,4 +1,6 @@
-# Ray Tracing One Triangle
+# Ray Tracing Starter File
+
+## Compilation
 
 On Windows:
 - Compile with `g++ ray-tracer.cpp -o ray-tracer.exe`
